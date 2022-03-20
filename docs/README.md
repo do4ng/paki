@@ -11,10 +11,14 @@ $yarn add pakijs
 $npm install pakijs
 ```
 
+```js
+require("pakijs");
+```
+
 ### with html
 
 ```html
-<script src="{...}/dist/browser.js"></script>
+<script src="https://unpkg.com/pakijs@0.0.1/dist/browser.js"></script>
 ```
 
 ## Usage
