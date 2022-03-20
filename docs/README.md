@@ -14,7 +14,7 @@ $npm install pakijs
 ### with html
 
 ```html
-<script src="https://unpkg.com/pakijs">
+<script src="{...}/dist/browser.js"></script>
 ```
 
 ## Usage
