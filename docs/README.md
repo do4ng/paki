@@ -26,3 +26,4 @@ require("pakijs");
 - [string](./string.md)
 - [array](./array.md)
 - [object](./object.md)
+- [extend](./extend.md)
