@@ -1,5 +1,7 @@
 # paki
 
+Make repetitive and long code easier
+
 [📜 Document](https://github.com/kangdongmandoo/paki/tree/main/docs) [📦 Repository](https://github.com/kangdongmandoo/paki)
 
 ---
