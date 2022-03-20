@@ -19,6 +19,6 @@ $npm install pakijs
 
 ## Usage
 
-- [string](./string)
-- [array](./array)
-- [object](./object)
+- [string](./string.md)
+- [array](./array.md)
+- [object](./object.md)
