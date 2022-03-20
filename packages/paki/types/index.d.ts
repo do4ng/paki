@@ -1,0 +1,11 @@
+import "./string/override";
+import "./string/remove";
+import "./string/eval";
+import "./string/json";
+import "./string/number";
+import "./array/remove";
+import "./array/override";
+import "./object/map";
+import "./object/forEach";
+import { extend } from "./core/index";
+export { extend };
