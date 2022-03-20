@@ -11,4 +11,4 @@
 
 ## LICENSE
 
-mit
+MIT License
