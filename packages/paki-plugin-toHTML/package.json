@@ -2,6 +2,10 @@
   "name": "pakijs-plugin-html",
   "version": "0.0.0",
   "dependencies": {
-    "paki": "latest"
+    "pakijs": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kangdongmandoo/paki"
   }
 }
